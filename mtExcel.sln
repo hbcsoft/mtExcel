@@ -5,7 +5,7 @@ VisualStudioVersion = 15.0.28307.1259
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{F184B08F-C81C-45F6-A57F-5ABD9991F28F}") = "mtExcel.Core", "src\mtExcel.Core\mtExcel.Core.vbproj", "{1281CC57-D41B-4EA8-B4C9-848686BFDEC9}"
 EndProject
-Project("{F184B08F-C81C-45F6-A57F-5ABD9991F28F}") = "WpfExcelSample", "WpfExcelSample\WpfExcelSample.vbproj", "{47516802-3ADB-430B-8681-6D1C3A3BC559}"
+Project("{F184B08F-C81C-45F6-A57F-5ABD9991F28F}") = "WpfExcelSample", "samples\WpfExcelSample\WpfExcelSample.vbproj", "{47516802-3ADB-430B-8681-6D1C3A3BC559}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
